@@ -1,5 +1,4 @@
-# Data-Analysis-on-NYC-Taxi-Data
-# NYC Taxi Trip Analysis using Dask
+# Data-Analysis-on-NYC-Taxi-Data using Dask
 
 ## 🎯 Objective
 Analyze NYC yellow taxi data using Dask to extract ride patterns, fare trends, and time-based traffic insights.
